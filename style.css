@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    
+}
+.header > .logo img{
+    
+    width: 95px ;
+}
+
+.search > button{
+    display: inline;
+    
+}
